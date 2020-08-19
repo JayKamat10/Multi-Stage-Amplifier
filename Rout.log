@@ -1,0 +1,147 @@
+Circuit: * C:\Users\vyjay\Desktop\LT Spice Assignment-1\Rout.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Semiconductor Device Operating Points:
+                        --- BSIM3 MOSFETS ---
+Name:        m7          m6          m4          m3          m12
+Model:      pmos        pmos        pmos        pmos        nmos
+Id:        -9.57e-7    -1.00e-5    -4.80e-8    -1.00e-5     0.00e+0
+Vgs:       -1.12e+0    -1.12e+0    -6.85e+0    -4.82e+0     7.33e-1
+Vds:       -1.25e+0    -1.12e+0    -8.22e-1    -4.82e+0     0.00e+0
+Vbs:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Vth:       -9.24e-1    -9.22e-1    -9.52e-1    -9.22e-1     6.83e-1
+Vdsat:     -1.89e-1    -1.92e-1    -5.49e+0    -3.51e+0     5.53e-2
+Gm:         9.65e-6     9.97e-5     5.76e-9     4.47e-6     0.00e+0
+Gds:        9.87e-9     1.04e-7     5.37e-8     1.20e-9     2.13e-7
+Gmb         2.86e-6     2.96e-5     5.05e-9     1.40e-6     0.00e+0
+Cbd:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbs:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgsov:       NaN         NaN         NaN         NaN         NaN
+Cgdov:       NaN         NaN         NaN         NaN         NaN
+Cgbov:       NaN         NaN         NaN         NaN         NaN
+dQgdVgb:     NaN         NaN         NaN        2.74e-9      NaN
+dQgdVdb:     NaN         NaN         NaN         NaN         NaN
+dQgdVsb:     NaN         NaN         NaN       -2.93e-9      NaN
+dQddVgb:     NaN         NaN         NaN       -1.24e-9      NaN
+dQddVdb:     NaN         NaN         NaN         NaN         NaN
+dQddVsb:     NaN         NaN         NaN        1.63e-9      NaN
+dQbdVgb:     NaN         NaN         NaN         NaN         NaN
+dQbdVdb:     NaN         NaN         NaN         NaN         NaN
+dQbdVsb:     NaN         NaN         NaN         NaN         NaN
+
+Name:        m11         m10         m9          m8          m5
+Model:      nmos        nmos        nmos        nmos        nmos
+Id:         3.82e-8     1.00e-5     9.57e-7     9.57e-7     1.00e-5
+Vgs:        8.10e-1     7.33e-1     7.07e-1     8.67e-1     9.12e-1
+Vds:        2.50e+0     7.33e-1     5.10e-1     7.35e-1     9.12e-1
+Vbs:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Vth:        6.83e-1     6.70e-1     6.70e-1     6.84e-1     6.73e-1
+Vdsat:      9.22e-2     6.16e-2     5.35e-2     1.36e-1     1.94e-1
+Gm:         7.68e-7     2.31e-4     2.25e-5     1.50e-5     1.14e-4
+Gds:         NaN        4.07e-8     2.48e-8     1.61e-8     1.37e-7
+Gmb         2.71e-7     8.28e-5     8.16e-6     5.22e-6     3.91e-5
+Cbd:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cbs:        0.00e+0     0.00e+0     0.00e+0     0.00e+0     0.00e+0
+Cgsov:       NaN         NaN         NaN         NaN         NaN
+Cgdov:       NaN         NaN         NaN         NaN         NaN
+Cgbov:       NaN         NaN         NaN         NaN         NaN
+dQgdVgb:     NaN        7.24e-9      NaN         NaN         NaN
+dQgdVdb:     NaN         NaN         NaN         NaN         NaN
+dQgdVsb:     NaN       -5.34e-9      NaN         NaN         NaN
+dQddVgb:     NaN       -3.01e-9      NaN         NaN         NaN
+dQddVdb:     NaN         NaN         NaN         NaN         NaN
+dQddVsb:     NaN        4.13e-9      NaN         NaN         NaN
+dQbdVgb:     NaN       -1.23e-9      NaN         NaN         NaN
+dQbdVdb:     NaN         NaN         NaN         NaN         NaN
+dQbdVsb:     NaN       -2.91e-9      NaN         NaN         NaN
+
+Name:        m2          m1
+Model:      nmos        nmos
+Id:         1.00e-5     4.80e-8
+Vgs:        9.64e-1     9.64e-1
+Vds:        9.64e-1     9.44e-1
+Vbs:        0.00e+0     0.00e+0
+Vth:        6.70e-1     7.25e-1
+Vdsat:      2.51e-1     1.79e-1
+Gm:         8.47e-5     5.53e-7
+Gds:        3.43e-8      NaN
+Gmb         2.88e-5     1.97e-7
+Cbd:        0.00e+0     0.00e+0
+Cbs:        0.00e+0     0.00e+0
+Cgsov:       NaN         NaN
+Cgdov:       NaN         NaN
+Cgbov:       NaN         NaN
+dQgdVgb:     NaN         NaN
+dQgdVdb:     NaN         NaN
+dQgdVsb:     NaN         NaN
+dQddVgb:     NaN         NaN
+dQddVdb:     NaN         NaN
+dQddVsb:     NaN         NaN
+dQbdVgb:     NaN         NaN
+dQbdVdb:     NaN         NaN
+dQbdVsb:     NaN         NaN
+
+
+
+Date: Wed Aug 19 11:26:57 2020
+Total elapsed time: 0.072 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 489
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 20
+fillins = 13
+solver = Normal
+Matrix Compiler1:      82 opcodes
+Matrix Compiler2: off  [0.2]/0.3/0.2
+
